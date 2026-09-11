@@ -43,13 +43,6 @@ admin-dashboard/
 └ README.md
 ```
 
-## Key Learnings
-
-- Building an interactive calculator application using JavaScript
-- Applied regex expressions to tokenize mathematical expression
-- Adapting Shunting-Yard algorithm to parse and evaluate infix expressions
-- Handling operator precedence, associativity and unary operations in expression passing
-
 ## Features
 
 - Dashboard overview
